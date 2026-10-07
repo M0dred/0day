@@ -31,5 +31,4 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.gitignore
 branch_structure.json
